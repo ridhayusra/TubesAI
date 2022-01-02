@@ -14,5 +14,5 @@ Download File.ipynb
 Buka di Google colabolatory (https://colab.research.google.com/)
 
 # Authors
-Ridha Yusrawati Sahidin  ridhayus@webmail.umm.ac.id  201910370311412
-Satria Suryadiradja      satriardj@webmail.umm.ac.id 201910370311332
+- Ridha Yusrawati Sahidin  ridhayus@webmail.umm.ac.id  201910370311412
+- Satria Suryadiradja      satriardj@webmail.umm.ac.id 201910370311332
